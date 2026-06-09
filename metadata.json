@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Bar Orientalny Andrychow",
+  "description": "Bar Orientalny w Andrychowie przy ul. Krakowskiej 37. Najlepsze wietnamskie PHO, ramen, sajgonki nem i curry tajskie. Dowóz i na miejscu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
